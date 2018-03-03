@@ -1,6 +1,6 @@
 # Wildfly [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of [Wildfly](https://hub.docker.com/r/jboss/wildfly/) on [WeDeploy](https://wedeploy.com/).
+An example of [Wildfly](https://hub.docker.com/r/jboss/wildfly/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
