@@ -1,5 +1,8 @@
 {
    "id": "mywildfly",
    "port": 8080,
-   "memory": 1024
+   "memory": 1024,
+   "healthCheck": {
+       "url": "localhost:9990"
+   }
 }
